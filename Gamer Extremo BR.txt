@@ -1,0 +1,1 @@
+Aplicação Web Jogo-da-Cobrinha. O clássico game da cobrinha que vai aumentando de tamanho ao colidir com os blocos.
